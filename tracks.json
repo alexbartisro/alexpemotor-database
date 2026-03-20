@@ -28,8 +28,7 @@
       "file": "routes/cluj-napoca-muntele-rece-stolna.gpx",
       "youtube": "",
       "description": ""
-    }, 
-	{
+    }, {
       "id": 4,
       "title": "Zalau → Huta Slavia → Borod → Cluj-Napoca",
       "date": "2025-06-15",
@@ -37,17 +36,7 @@
       "file": "routes/zalau-huta slavita-borod-cluj.gpx",
       "youtube": "https://youtu.be/9t32SdacqkQ",
       "description": ""
-    },
-	{
-	  "id": 5,
-      "title": "Marisel - Campeni",
-      "date": "2026-03-20",
-      "type": "offroad",
-      "file": "Marisel - Campeni.gpx",
-      "youtube": "",
-      "description": "Offroad adventure from Marisel to Campeni"			
-	}
-	
+    }
   ],
 
   "placemarks": [
