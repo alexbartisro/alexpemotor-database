@@ -27,8 +27,8 @@ alexpemotor-database/
     {
       "id": 1,
       "title": "Vascau → Varfurile",
-      "date": "2024-06-15",
-      "color": "#ff6b35",
+      "date": "2025-06-15",
+      "type": "onroad",
       "file": "routes/vascau-varfurile.kml",
       "youtube": "https://youtu.be/VIDEO_ID",
       "description": "Optional short description."
@@ -47,7 +47,9 @@ alexpemotor-database/
 }
 ```
 
-**Track fields:** `id` (unique int), `title`, `date` (YYYY-MM-DD), `color` (hex), `file` (relative path), `youtube` (optional), `description` (optional)
+**Track fields:** `id` (unique int), `title`, `date` (YYYY-MM-DD), `type` (`"onroad"` or `"offroad"`), `file` (relative path), `youtube` (optional), `description` (optional)
+
+Route colours are defined in the website code and applied automatically based on `type` — no colour value is needed in the data. Onroad routes render in blue, offroad in amber.
 
 **Placemark types:** `viewpoint` 👁, `fuel` ⛽, `food` 🍴, `camp` ⛺, `danger` ⚠️, `photo` 📷 — anything else renders as 📍
 
@@ -59,7 +61,7 @@ Found a great road and want to add it? Open a pull request.
 
 1. Fork this repo
 2. Add your route file to `routes/` — use a lowercase slug filename, e.g. `transalpina-2025.gpx`
-3. Add an entry for it in `tracks.json` (pick the next available `id`, choose a hex color)
+3. Add an entry for it in `tracks.json` (pick the next available `id`, set `type` to `"onroad"` or `"offroad"`)
 4. Open a PR with a short description of the route
 
 Please keep route files in `.gpx` format where possible — it includes elevation data which powers the chart on the website. `.kml` exports from Google My Maps are also welcome.

@@ -6,7 +6,7 @@
       "id": 1,
       "title": "Vascau → Varfurile",
       "date": "2025-06-15",
-      "color": "#ff6b35",
+      "type": "onroad",
       "file": "routes/vascau-varfurile.kml",
       "youtube": "",
       "description": "Scenic road through the Apuseni mountains from Vascau down to Varfurile."
@@ -15,7 +15,7 @@
       "id": 2,
       "title": "Garda de Sus → Poiana Călineasa Belvedere",
       "date": "2025-06-15",
-      "color": "#3ecfcf",
+      "type": "onroad",
       "file": "routes/garda-de-sus-poiana-calineasa-belvedere.kml",
       "youtube": "",
       "description": ""
@@ -24,9 +24,17 @@
       "id": 3,
       "title": "Cluj-Napoca → Muntele Rece → Stolna",
       "date": "2025-06-15",
-      "color": "#a78bfa",
+      "type": "onroad",
       "file": "routes/cluj-napoca-muntele-rece-stolna.gpx",
       "youtube": "",
+      "description": ""
+    }, {
+      "id": 4,
+      "title": "Zalau → Huta Slavia → Borod → Cluj-Napoca",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/zalau-huta slavita-borod-cluj.gpx",
+      "youtube": "https://youtu.be/9t32SdacqkQ",
       "description": ""
     }
   ],
