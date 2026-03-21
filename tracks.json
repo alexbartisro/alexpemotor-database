@@ -63,6 +63,66 @@
       "country": ["Romania"],
       "region": ["Transilvania"],
       "county": ["Cluj", "Alba"]
+    },
+	{
+      "id": 6,
+      "title": "Poieni → Beius",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/poieni-beius.gpx",
+      "youtube": "",
+      "description": "Beautiful landscape of Valea Draganului, Valea Iadului and Stana de Vale",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Bihor"]
+    },
+	{
+      "id": 7,
+      "title": "Bucea → Beius",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/bucea-beius.gpx",
+      "youtube": "",
+      "description": "Beautiful landscape of Rosia Valley",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Bihor"]
+    },
+	{
+      "id": 8,
+      "title": "Tileagd → Dobresti",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/tileagd-tomnatic-rosia-lazuri-dobresti.gpx",
+      "youtube": "",
+      "description": "A journey on different valles with elevation and landscapes",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
+    },
+	{
+      "id": 9,
+      "title": "Maguri Racatau → Marisel",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/maguri-marisel.gpx",
+      "youtube": "https://youtu.be/9W7rG9749Jc?si=t0-hc0jlfbomIStY",
+      "description": "Some light offroad in the Apuseni Mountains",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
+    },
+	{
+      "id": 10,
+      "title": "Valea Ierii → Maguri",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/ierii-maguri.gpx",
+      "youtube": "",
+      "description": "Gravel offroad with some harder section in the 2nd part from Maguri Racatau to Maguri",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     }
   ],
 
