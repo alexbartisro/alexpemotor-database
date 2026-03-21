@@ -51,6 +51,18 @@
       "country": ["Romania"],
       "region": ["Transilvania", "Crisana"],
       "county": ["Cluj", "Salaj", "Bihor"]
+    },
+	{
+      "id": 5,
+      "title": "Marisel → Campeni",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/marisel-campeni.gpx",
+      "youtube": "",
+      "description": "Offroad route part of ATC",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Alba"]
     }
   ],
 
