@@ -123,6 +123,90 @@
       "country": ["Romania"],
       "region": ["Transilvania"],
       "county": ["Cluj"]
+    },
+		{
+      "id": 11,
+      "title": "Ditrau → Tulghes",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/ditrau-tulghes.gpx",
+      "youtube": "",
+      "description": "Some light offroad",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
+    },
+		{
+      "id": 12,
+      "title": "Drumul Talienilor",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/drumul-talienilor.gpx",
+      "youtube": "",
+      "description": "Great tarmac with awesome landscapes",
+      "country": ["Romania"],
+      "region": ["Moldova"],
+      "county": ["Neamt", "Suceava"]
+    },
+		{
+      "id": 13,
+      "title": "Pasul Gutin → Cavnic",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/gutin-cavnic.gpx",
+      "youtube": "",
+      "description": "Two passes through Maramures",
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
+    },
+		{
+      "id": 14,
+      "title": "Lunca de Jos → Damuc",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/luncadejos-damuc.gpx",
+      "youtube": "",
+      "description": "Great offroad between Lunca de Jos and Damuc",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Neamt"]
+    },
+		{
+      "id": 15,
+      "title": "Valea Mare → Carlibaba",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/pasul-rotunda.gpx",
+      "youtube": "",
+      "description": "Offroad route through Rotunda Pass",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Bistrita-Nasaud"]
+    },
+		{
+      "id": 16,
+      "title": "Maguri Racatau → Marisel",
+      "date": "2025-06-15",
+      "type": "onroad",
+      "file": "routes/transrarau.gpx",
+      "youtube": "",
+      "description": "Transrarau Road",
+      "country": ["Romania"],
+      "region": ["Moldova"],
+      "county": ["Suceava"]
+    },
+		{
+      "id": 17,
+      "title": "Sanmartin → Darmanesti",
+      "date": "2025-06-15",
+      "type": "offroad",
+      "file": "routes/sanmartin-darmanesti.gpx",
+      "youtube": "",
+      "description": "Offroad from Harghita to Bacau",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Moldova"]
     }
   ],
 
