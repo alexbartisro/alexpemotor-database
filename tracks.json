@@ -123,6 +123,30 @@
       "country": ["Romania"],
       "region": ["Transilvania"],
       "county": ["Cluj"]
+    },
+    {
+      "id": 11,
+      "title": "Capruta → Gurahont",
+      "date": "2025-09-19",
+      "type": "onroad",
+      "file": "routes/capruta-gurahont.gpx",
+      "youtube": "",
+      "description": "Twisted road with great views over the hills and valleys of the area.",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Arad"]
+    },
+    {
+      "id": 12,
+      "title": "Varfurile → Halmagiu → Muntele Gaina → Garda de Sus → Casa de Piatra",
+      "date": "2025-09-19",
+      "type": "offroad",
+      "file": "routes/varfurile-halmagiu-muntele-gaina-garda-de-sus-casa-de-piatra.gpx",
+      "youtube": "",
+      "description": "Offroad route with some hard sections, especially the one from Luncsoara to Garda de Sus. Get on top of the area at Muntele Gaina for great views over the Apuseni mountains.",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Arad", "Alba"]
     }
   ],
 
