@@ -126,18 +126,6 @@
     },
     {
       "id": 11,
-      "title": "Capruta → Gurahont",
-      "date": "2025-09-19",
-      "type": "onroad",
-      "file": "routes/capruta-gurahont.kml",
-      "youtube": "",
-      "description": "Twisted road with great views over the hills and valleys of the area.",
-      "country": ["Romania"],
-      "region": ["Crisana"],
-      "county": ["Arad"]
-    },
-    {
-      "id": 12,
       "title": "Varfurile → Halmagiu → Muntele Gaina → Garda de Sus → Casa de Piatra",
       "date": "2025-09-19",
       "type": "offroad",
