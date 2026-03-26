@@ -447,6 +447,18 @@
       "country": ["Romania"],
       "region": ["Transilvania"],
       "county": ["Cluj","Alba"]
+    },
+	{
+      "id": 38,
+      "title": "Varfurile → Halmagiu → Muntele Gaina → Garda de Sus → Casa de Piatra",
+      "date": "2026-03-26",
+      "type": "offroad",
+      "file": "routes/varfurile-halmagiu-muntele-gaina-garda-de-sus-casa-de-piatra.gpx",
+      "youtube": "",
+      "description": "Offroad route with some hard sections, especially the one from Luncsoara to Garda de Sus. Get on top of the area at Muntele Gaina for great views over the Apuseni mountains.",
+      "country": ["Romania"],
+      "region": ["Crisana","Transilvania"],
+      "county": ["Arad","Alba"]
     }
   ],
 
