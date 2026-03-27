@@ -6,7 +6,7 @@
   "tracks": [
     {
       "id": 1,
-      "title": "Vascau → Varfurile",
+      "title": "Vascau \u2192 Varfurile",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/vascau-varfurile.kml",
@@ -18,7 +18,7 @@
     },
     {
       "id": 2,
-      "title": "Garda de Sus → Poiana Călineasa Belvedere",
+      "title": "Garda de Sus \u2192 Poiana C\u0103lineasa Belvedere",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/garda-de-sus-poiana-calineasa-belvedere.kml",
@@ -30,7 +30,7 @@
     },
     {
       "id": 3,
-      "title": "Cluj-Napoca → Muntele Rece → Stolna",
+      "title": "Cluj-Napoca \u2192 Muntele Rece \u2192 Stolna",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/cluj-napoca-muntele-rece-stolna.gpx",
@@ -42,7 +42,7 @@
     },
     {
       "id": 4,
-      "title": "Zalau → Huta Slavia → Borod → Cluj-Napoca",
+      "title": "Zalau \u2192 Huta Slavia \u2192 Borod \u2192 Cluj-Napoca",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/zalau-huta-slavia-borod-cluj.gpx",
@@ -54,7 +54,7 @@
     },
 	{
       "id": 5,
-      "title": "Marisel → Campeni",
+      "title": "Marisel \u2192 Campeni",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/marisel-campeni.gpx",
@@ -66,7 +66,7 @@
     },
 	{
       "id": 6,
-      "title": "Poieni → Beius",
+      "title": "Poieni \u2192 Beius",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/poieni-beius.gpx",
@@ -78,7 +78,7 @@
     },
 	{
       "id": 7,
-      "title": "Bucea → Beius",
+      "title": "Bucea \u2192 Beius",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/bucea-beius.gpx",
@@ -90,7 +90,7 @@
     },
 	{
       "id": 8,
-      "title": "Tileagd → Dobresti",
+      "title": "Tileagd \u2192 Dobresti",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/tileagd-tomnatic-rosia-lazuri-dobresti.gpx",
@@ -102,7 +102,7 @@
     },
 	{
       "id": 9,
-      "title": "Maguri Racatau → Marisel",
+      "title": "Maguri Racatau \u2192 Marisel",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/maguri-marisel.gpx",
@@ -114,7 +114,7 @@
     },
 	{
       "id": 10,
-      "title": "Valea Ierii → Maguri",
+      "title": "Valea Ierii \u2192 Maguri",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/ierii-maguri.gpx",
@@ -126,7 +126,7 @@
     },
 	{
       "id": 11,
-      "title": "Ditrau → Tulghes",
+      "title": "Ditrau \u2192 Tulghes",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/ditrau-tulghes.gpx",
@@ -150,7 +150,7 @@
     },
 	{
       "id": 13,
-      "title": "Pasul Gutin → Cavnic",
+      "title": "Pasul Gutin \u2192 Cavnic",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/gutin-cavnic.gpx",
@@ -162,7 +162,7 @@
     },
 	{
       "id": 14,
-      "title": "Lunca de Jos → Damuc",
+      "title": "Lunca de Jos \u2192 Damuc",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/luncadejos-damuc.gpx",
@@ -174,7 +174,7 @@
     },
 	{
       "id": 15,
-      "title": "Valea Mare → Carlibaba",
+      "title": "Valea Mare \u2192 Carlibaba",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/pasul-rotunda.gpx",
@@ -186,7 +186,7 @@
     },
 	{
       "id": 16,
-      "title": "Maguri Racatau → Marisel",
+      "title": "Maguri Racatau \u2192 Marisel",
       "date": "2025-06-15",
       "type": "onroad",
       "file": "routes/transrarau.gpx",
@@ -198,7 +198,7 @@
     },
 	{
       "id": 17,
-      "title": "Sanmartin → Darmanesti",
+      "title": "Sanmartin \u2192 Darmanesti",
       "date": "2025-06-15",
       "type": "offroad",
       "file": "routes/sanmartin-darmanesti.gpx",
@@ -210,10 +210,10 @@
     },
 	{
       "id": 18,
-      "title": "Cluj → Bezded",
+      "title": "Cluj \u2192 Bezded",
       "date": "2026-03-26",
       "type": "onroad",
-      "file": "routes/cluj-chinteni-caprioara-bezded",
+      "file": "routes/cluj-chinteni-caprioara-bezded.gpx",
       "youtube": "",
       "description": "A perfect ride for an afternoon that tests your skills with lots of curves but also straight roads",
       "country": ["Romania"],
@@ -222,7 +222,7 @@
     },
 	{
       "id": 19,
-      "title": "Cugir → Transalpina",
+      "title": "Cugir \u2192 Transalpina",
       "date": "2026-03-26",
       "type": "offroad",
       "file": "routes/cugir-transalpina.gpx",
@@ -234,7 +234,7 @@
     },
 	{
       "id": 20,
-      "title": "Dealu Botii → Belis",
+      "title": "Dealu Botii \u2192 Belis",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/dealubotii-belis.gpx",
@@ -246,7 +246,7 @@
     },
 	{
       "id": 21,
-      "title": "Dobra → Saliste",
+      "title": "Dobra \u2192 Saliste",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/dobra-saliste.gpx",
@@ -270,7 +270,7 @@
     },
 	{
       "id": 23,
-      "title": "Jena → Cosava",
+      "title": "Jena \u2192 Cosava",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/jena-cosava.gpx",
@@ -282,7 +282,7 @@
     },
 	{
       "id": 24,
-      "title": "Margina → Gurahont",
+      "title": "Margina \u2192 Gurahont",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/margina-gurahont.gpx",
@@ -294,7 +294,7 @@
     },
 	{
       "id": 25,
-      "title": "Moldovenesti → Inoc",
+      "title": "Moldovenesti \u2192 Inoc",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/moldovenesti-inoc.gpx",
@@ -306,7 +306,7 @@
     },
 	{
       "id": 26,
-      "title": "Petrosani → Parangu Mic",
+      "title": "Petrosani \u2192 Parangu Mic",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/petrosani-parangumic.gpx",
@@ -318,7 +318,7 @@
     },
 	{
       "id": 27,
-      "title": "Petrosani → Transalpina",
+      "title": "Petrosani \u2192 Transalpina",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/petrosani-transalpina.gpx",
@@ -330,7 +330,7 @@
     },
 	{
       "id": 28,
-      "title": "Poiana Calineasa → Poiana Horea",
+      "title": "Poiana Calineasa \u2192 Poiana Horea",
       "date": "2026-03-26",
       "type": "offroad",
       "file": "routes/poianacalineasa-poianahorea.gpx",
@@ -342,10 +342,10 @@
     },
 	{
       "id": 29,
-      "title": "Maru → Muntele Mic",
+      "title": "Maru \u2192 Muntele Mic",
       "date": "2026-03-26",
       "type": "offroad",
-      "file": "routes/maru-muntelemic",
+      "file": "routes/maru-muntelemic.gpx",
       "youtube": "",
       "description": "Offroad route that leads to the Muntele Mic Peak",
       "country": ["Romania"],
@@ -354,7 +354,7 @@
     },
 	{
       "id": 30,
-      "title": "Stei → Albac",
+      "title": "Stei \u2192 Albac",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/stei-albac.gpx",
@@ -390,7 +390,7 @@
     },
 	{
       "id": 33,
-      "title": "Teregova → Plugova",
+      "title": "Teregova \u2192 Plugova",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/teregova-plugova.gpx",
@@ -402,7 +402,7 @@
     },
 	{
       "id": 34,
-      "title": "Sebes → Bengesti",
+      "title": "Sebes \u2192 Bengesti",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/transalpina.gpx",
@@ -414,7 +414,7 @@
     },
 	{
       "id": 35,
-      "title": "Resita → Garana → Slatina Timis",
+      "title": "Resita \u2192 Garana \u2192 Slatina Timis",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/transsemenic.gpx",
@@ -438,7 +438,7 @@
     },
 	{
       "id": 37,
-      "title": "Huedin → Albac",
+      "title": "Huedin \u2192 Albac",
       "date": "2026-03-26",
       "type": "onroad",
       "file": "routes/transursoaia.gpx",
@@ -450,7 +450,7 @@
     },
 	{
       "id": 38,
-      "title": "Varfurile → Halmagiu → Muntele Gaina → Garda de Sus → Casa de Piatra",
+      "title": "Varfurile \u2192 Halmagiu \u2192 Muntele Gaina \u2192 Garda de Sus \u2192 Casa de Piatra",
       "date": "2026-03-26",
       "type": "offroad",
       "file": "routes/varfurile-halmagiu-muntele-gaina-garda-de-sus-casa-de-piatra.gpx",
