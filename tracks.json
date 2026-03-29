@@ -1265,6 +1265,24 @@
       ]
     },
     {
+      "id": 69,
+      "title": "Cluj-Napoca → PGL Verde de Nădașu",
+      "date": "2026-03-22",
+      "type": "onroad",
+      "file": "routes/cluj-napoca-pgl-verde-de-nadasu.gpx",
+      "youtube": "https://youtu.be/UddCirO8QzA",
+      "description": "Short ride on the European road then a nice ride over a communal road to the Nădașu village",
+      "country": [
+        "Romania"
+      ],
+      "region": [
+        "Transilvania"
+      ],
+      "county": [
+        "Cluj"
+      ]
+    },
+    {
       "id": 68,
       "title": "Campul lui Neag → Cerna",
       "date": "2026-03-28",
