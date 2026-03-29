@@ -4052,6 +4052,86 @@
       "address": "Str. Somesului nr. 5-7, Cluj-Napoca",
       "website": "https://boramoto.ro",
       "image_url": "https://boramoto.ro/wp-content/uploads/2022/10/000.BORA-MOTO-SERVICE-LOGO.png"
+    },
+	{
+      "id": 272,
+      "title": "Petrom Toplita",
+      "lat": 46.9258682,
+      "lng": 25.3296485,
+      "type": "fuel",
+      "description": "Fuel before the mountain stretch."
+    },
+	{
+      "id": 273,
+      "title": "Petrom Toplita 2",
+      "lat": 46.963436,
+      "lng": 25.4224186,
+      "type": "fuel",
+      "description": "Fuel before the mountain stretch."
+    },
+	{
+      "id": 273,
+      "title": "Petrom Poiana Teiului",
+      "lat": 47.0901306,
+      "lng": 25.9245469,
+      "type": "fuel",
+      "description": "Fuel before the mountain stretch."
+    },
+	{
+      "id": 274,
+      "title": "Lacul Bicaz viewpoint",
+      "lat": 47.0216259,
+      "lng": 25.9539293,
+      "type": "viewpoint",
+      "description": "Great view of the Bicaz Lake."
+    },
+	{
+      "id": 275,
+      "title": "Crucea Talienilor viewpoint",
+      "lat": 47.2736731,
+      "lng": 25.8857653,
+      "type": "viewpoint",
+      "description": "Great view of the Bicaz Lake."
+    },
+	{
+      "id": 276,
+      "title": "Petrom Baia de Arama",
+      "lat": 44.9961349,
+      "lng": 22.820088,
+      "type": "fuel",
+      "description": "Fuel"
+    },
+	{
+      "id": 277,
+      "title": "Petrom Campeni",
+      "lat": 46.3615599,
+      "lng": 22.9722404,
+      "type": "fuel",
+      "description": "Fuel"
+    },
+	{
+      "id": 278,
+      "title": "Petrom Brezoi",
+      "lat": 45.3356186,
+      "lng": 24.2571974,
+      "type": "fuel",
+      "description": "Last station if you are going to Transalpina"
+    },
+	{
+      "id": 279,
+      "title": "Mol Sebes",
+      "lat": 45.9599213,
+      "lng": 23.4957295,
+      "type": "fuel",
+      "description": "Better fuel up if you are going to Transalpina"
+    },
+	{
+      "id": 280,
+      "title": "Poiana Calineasa viewpoint",
+      "lat": 46.5555476,
+      "lng": 22.8108865,
+      "type": "viewpoint",
+      "description": "Great view of the Apuseni Mountains."
     }
   ]
 }
