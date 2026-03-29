@@ -4056,24 +4056,24 @@
 	{
       "id": 272,
       "title": "Petrom Toplita",
-      "lat": 46.9258682,
-      "lng": 25.3296485,
+      "lat": 46.925812,
+      "lng": 25.356563,
       "type": "fuel",
       "description": "Fuel before the mountain stretch."
     },
 	{
       "id": 273,
-      "title": "Petrom Toplita 2",
-      "lat": 46.963436,
-      "lng": 25.4224186,
+      "title": "Petrom Borsec",
+      "lat": 46.960687,
+      "lng": 25.546687,
       "type": "fuel",
       "description": "Fuel before the mountain stretch."
     },
 	{
       "id": 273,
       "title": "Petrom Poiana Teiului",
-      "lat": 47.0901306,
-      "lng": 25.9245469,
+      "lat": 47.091938,
+      "lng": 25.956562,
       "type": "fuel",
       "description": "Fuel before the mountain stretch."
     },
@@ -4096,32 +4096,32 @@
 	{
       "id": 276,
       "title": "Petrom Baia de Arama",
-      "lat": 44.9961349,
-      "lng": 22.820088,
+      "lat": 44.997312,
+      "lng": 22.815812,
       "type": "fuel",
       "description": "Fuel"
     },
 	{
       "id": 277,
       "title": "Petrom Campeni",
-      "lat": 46.3615599,
-      "lng": 22.9722404,
+      "lat": 46.361562,
+      "lng": 23.048437,
       "type": "fuel",
       "description": "Fuel"
     },
 	{
       "id": 278,
       "title": "Petrom Brezoi",
-      "lat": 45.3356186,
-      "lng": 24.2571974,
+      "lat": 45.331312,
+      "lng": 24.276562,
       "type": "fuel",
       "description": "Last station if you are going to Transalpina"
     },
 	{
       "id": 279,
       "title": "Mol Sebes",
-      "lat": 45.9599213,
-      "lng": 23.4957295,
+      "lat": 45.959937,
+      "lng": 23.549563,
       "type": "fuel",
       "description": "Better fuel up if you are going to Transalpina"
     },
