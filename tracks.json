@@ -1734,6 +1734,24 @@
       "county": [
         "Sibiu"
       ]
+    },
+        {
+      "id": 93,
+      "title": " Traversare Muntele Rece ",
+      "date": "2026-03-27",
+      "type": "onroad",
+      "file": "traversare-muntele-rece.gpx",
+      "youtube": "",
+      "description": "New road going over the Muntele Rece in the Apuseni Mountains, going from Somesul Rece to Finisel. New road built in 2025. Next to Muntele Rece Monastery.",
+      "country": [
+        "Romania"
+      ],
+      "region": [
+        "Transilvania"
+      ],
+      "county": [
+        "Cluj"
+      ]
     }
   ]
 }
