@@ -1735,6 +1735,7 @@
         "Sibiu"
       ]
     },
+<<<<<<< HEAD
     {
       "id": 93,
       "title": " Malnas Bai → Batanii Mari ",
@@ -1779,6 +1780,16 @@
       "file": "routes/paltinis.gpx",
       "youtube": "",
       "description": "Classic but beautiful road",
+=======
+        {
+      "id": 93,
+      "title": "Traversare Muntele Rece",
+      "date": "2026-03-27",
+      "type": "onroad",
+      "file": "routes/traversare-muntele-rece.gpx",
+      "youtube": "",
+      "description": "New road going over the Muntele Rece in the Apuseni Mountains, going from Somesul Rece to Finisel. New road built in 2025. Next to Muntele Rece Monastery.",
+>>>>>>> 72ec8f1b06235d845ae77366b403ded25a1faeb1
       "country": [
         "Romania"
       ],
@@ -1786,6 +1797,7 @@
         "Transilvania"
       ],
       "county": [
+<<<<<<< HEAD
         "Sibiu"
       ]
     },
@@ -1877,6 +1889,9 @@
       ],
       "county": [
         "Bihor"
+=======
+        "Cluj"
+>>>>>>> 72ec8f1b06235d845ae77366b403ded25a1faeb1
       ]
     }
   ]
