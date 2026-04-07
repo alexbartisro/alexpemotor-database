@@ -10,19 +10,25 @@ This repo is the data backend for the interactive map at **apm.bartis.ro** (or w
 
 ```
 alexpemotor-database/
-├── tracks.json          ← manifest: baseUrl + all tracks + all placemarks
-├── routes/              ← one file per route
-│   ├── *.gpx            ←   GPS device recordings (includes elevation)
-│   ├── *.kml            ←   Google My Maps exports (2D only)
-│   └── *.kmz            ←   zipped KML (also supported)
-└── placemarks/          ← (future) standalone point-of-interest files
+├── tracks.json              ← route manifest: baseUrl + tracks[]
+├── placemarks/
+│   └── placemarks.json      ← all points of interest (281 entries)
+└── routes/                  ← one file per route (101 routes)
+    ├── *.gpx                ←   GPS device recordings (includes elevation)
+    ├── *.kml                ←   Google My Maps exports (2D only)
+    └── *.kmz                ←   zipped KML (also supported)
 ```
+
+The website fetches both files independently on load:
+- `tracks.json` → route list, sidebar, polylines
+- `placemarks/placemarks.json` → map pins, popups
 
 ### tracks.json structure
 
 ```json
 {
   "baseUrl": "https://raw.githubusercontent.com/alexbartisro/alexpemotor-database/main",
+  "_regions_ref": "Transilvania; Oltenia; Muntenia; ...",
   "tracks": [
     {
       "id": 1,
@@ -31,27 +37,60 @@ alexpemotor-database/
       "type": "onroad",
       "file": "routes/vascau-varfurile.kml",
       "youtube": "https://youtu.be/VIDEO_ID",
-      "description": "Optional short description."
-    }
-  ],
-  "placemarks": [
-    {
-      "id": 1,
-      "title": "Cheile Turzii viewpoint",
-      "lat": 46.5591,
-      "lng": 23.6852,
-      "type": "viewpoint",
-      "description": "Best pull-off on the south side."
+      "description": "Optional short description.",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     }
   ]
 }
 ```
 
-**Track fields:** `id` (unique int), `title`, `date` (YYYY-MM-DD), `type` (`"onroad"` or `"offroad"`), `file` (relative path), `youtube` (optional), `description` (optional)
+**Track fields:**
 
-Route colours are defined in the website code and applied automatically based on `type` — no colour value is needed in the data. Onroad routes render in blue, offroad in amber.
+| Field | Required | Notes |
+|-------|----------|-------|
+| `id` | ✅ | unique integer, increment from last |
+| `title` | ✅ | display name shown in sidebar |
+| `date` | ✅ | `YYYY-MM-DD` |
+| `type` | ✅ | `"onroad"` or `"offroad"` |
+| `file` | ✅ | path relative to `baseUrl` |
+| `youtube` | — | full `https://youtu.be/...` URL or empty string |
+| `description` | — | short text shown in route detail |
+| `country` | ✅ | array, e.g. `["Romania"]` |
+| `region` | ✅ | array from: `Transilvania`, `Oltenia`, `Muntenia`, `Moldova`, `Bucovina`, `Dobrogea`, `Crisana`, `Banat`, `Maramures` |
+| `county` | ✅ | array of Romanian county names |
 
-**Placemark types:** `viewpoint` 👁, `fuel` ⛽, `food` 🍴, `camp` ⛺, `danger` ⚠️, `photo` 📷 — anything else renders as 📍
+Route colours are applied automatically by the website based on `type` — no colour field needed. Onroad renders in blue, offroad in amber.
+
+### placemarks/placemarks.json structure
+
+```json
+{
+  "placemarks": [
+    {
+      "id": 1,
+      "title": "Cheile Turzii viewpoint",
+      "lat": 46.5585,
+      "lng": 23.6847,
+      "type": "viewpoint",
+      "description": "Great pull-off with a view over the gorge.",
+      "county": "Cluj",
+      "image_url": "https://...",
+      "address": "DN75, ...",
+      "phone": "+40 ...",
+      "website": "https://...",
+      "business_name": "...",
+      "contact_person": "...",
+      "email": "..."
+    }
+  ]
+}
+```
+
+**Placemark fields:** `id`, `title`, `lat`, `lng`, `type` and `description` are the core fields. All others are optional and shown in the popup when present.
+
+**Placemark types:** `viewpoint` 👁, `fuel` ⛽, `food` 🍴, `camp` ⛺, `danger` ⚠️, `photo` 📷, `pgl` 🍽️, `school` 🏫, `service` 🔧 — anything else renders as 📍
 
 ---
 
