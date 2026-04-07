@@ -10,15 +10,9 @@
       "file": "routes/vascau-varfurile.kml",
       "youtube": "",
       "description": "Scenic road through the Apuseni mountains from Vascau down to Varfurile.",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana"
-      ],
-      "county": [
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     },
     {
       "id": 2,
@@ -28,16 +22,9 @@
       "file": "routes/garda-de-sus-poiana-calineasa-belvedere.kml",
       "youtube": "",
       "description": "",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Alba"]
     },
     {
       "id": 3,
@@ -47,15 +34,9 @@
       "file": "routes/cluj-napoca-muntele-rece-stolna.gpx",
       "youtube": "",
       "description": "",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 4,
@@ -65,18 +46,9 @@
       "file": "routes/zalau-huta-slavia-borod-cluj.gpx",
       "youtube": "https://youtu.be/9t32SdacqkQ",
       "description": "",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Crisana"
-      ],
-      "county": [
-        "Cluj",
-        "Salaj",
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Salaj", "Bihor"]
     },
     {
       "id": 5,
@@ -86,16 +58,9 @@
       "file": "routes/marisel-campeni.gpx",
       "youtube": "",
       "description": "Offroad route part of ATC",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Alba"]
     },
     {
       "id": 6,
@@ -105,17 +70,9 @@
       "file": "routes/poieni-beius.gpx",
       "youtube": "",
       "description": "Beautiful landscape of Valea Draganului, Valea Iadului and Stana de Vale",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Crisana"
-      ],
-      "county": [
-        "Cluj",
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Bihor"]
     },
     {
       "id": 7,
@@ -125,17 +82,9 @@
       "file": "routes/bucea-beius.gpx",
       "youtube": "",
       "description": "Beautiful landscape of Rosia Valley",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Crisana"
-      ],
-      "county": [
-        "Cluj",
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Bihor"]
     },
     {
       "id": 8,
@@ -145,15 +94,9 @@
       "file": "routes/tileagd-tomnatic-rosia-lazuri-dobresti.gpx",
       "youtube": "",
       "description": "A journey on different valles with elevation and landscapes",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana"
-      ],
-      "county": [
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     },
     {
       "id": 9,
@@ -163,15 +106,9 @@
       "file": "routes/maguri-marisel.gpx",
       "youtube": "https://youtu.be/9W7rG9749Jc?si=t0-hc0jlfbomIStY",
       "description": "Some light offroad in the Apuseni Mountains",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 10,
@@ -181,15 +118,9 @@
       "file": "routes/ierii-maguri.gpx",
       "youtube": "",
       "description": "Gravel offroad with some harder section in the 2nd part from Maguri Racatau to Maguri",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 11,
@@ -199,15 +130,9 @@
       "file": "routes/ditrau-tulghes.gpx",
       "youtube": "",
       "description": "Some light offroad",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Harghita"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
     },
     {
       "id": 12,
@@ -217,16 +142,9 @@
       "file": "routes/drumul-talienilor.gpx",
       "youtube": "",
       "description": "Great tarmac with awesome landscapes",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Moldova"
-      ],
-      "county": [
-        "Neamt",
-        "Suceava"
-      ]
+      "country": ["Romania"],
+      "region": ["Moldova"],
+      "county": ["Neamt", "Suceava"]
     },
     {
       "id": 13,
@@ -236,15 +154,9 @@
       "file": "routes/gutin-cavnic.gpx",
       "youtube": "",
       "description": "Two passes through Maramures",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Maramures"
-      ],
-      "county": [
-        "Maramures"
-      ]
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
     },
     {
       "id": 14,
@@ -254,17 +166,9 @@
       "file": "routes/luncadejos-damuc.gpx",
       "youtube": "",
       "description": "Great offroad between Lunca de Jos and Damuc",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Moldova"
-      ],
-      "county": [
-        "Harghita",
-        "Neamt"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Neamt"]
     },
     {
       "id": 15,
@@ -274,15 +178,9 @@
       "file": "routes/pasul-rotunda.gpx",
       "youtube": "",
       "description": "Offroad route through Rotunda Pass",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Bistrita-Nasaud"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Bistrita-Nasaud"]
     },
     {
       "id": 16,
@@ -292,15 +190,9 @@
       "file": "routes/transrarau.gpx",
       "youtube": "",
       "description": "Transrarau Road",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Moldova"
-      ],
-      "county": [
-        "Suceava"
-      ]
+      "country": ["Romania"],
+      "region": ["Moldova"],
+      "county": ["Suceava"]
     },
     {
       "id": 17,
@@ -310,17 +202,9 @@
       "file": "routes/sanmartin-darmanesti.gpx",
       "youtube": "",
       "description": "Offroad from Harghita to Bacau",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Moldova"
-      ],
-      "county": [
-        "Harghita",
-        "Moldova"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Moldova"]
     },
     {
       "id": 18,
@@ -330,16 +214,9 @@
       "file": "routes/cluj-chinteni-caprioara-bezded.gpx",
       "youtube": "",
       "description": "A perfect ride for an afternoon that tests your skills with lots of curves but also straight roads",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Salaj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Salaj"]
     },
     {
       "id": 19,
@@ -349,15 +226,9 @@
       "file": "routes/cugir-transalpina.gpx",
       "youtube": "",
       "description": "The offroad version of the roads that leads to Transalpina",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Alba"]
     },
     {
       "id": 20,
@@ -367,15 +238,9 @@
       "file": "routes/dealubotii-belis.gpx",
       "youtube": "",
       "description": "Steep road trough the Apuseni",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 21,
@@ -385,16 +250,9 @@
       "file": "routes/dobra-saliste.gpx",
       "youtube": "",
       "description": "A road worht visiting that is connecting Sibiu to Transalpina",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Sibiu",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Sibiu", "Alba"]
     },
     {
       "id": 22,
@@ -404,15 +262,9 @@
       "file": "routes/drumulluiiovan.gpx",
       "youtube": "",
       "description": "A steep road that leads to the plane crash that happened in Apuseni",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Alba"]
     },
     {
       "id": 23,
@@ -422,15 +274,9 @@
       "file": "routes/jena-cosava.gpx",
       "youtube": "",
       "description": "Narrow roads but awesome experience",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Timis"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Timis"]
     },
     {
       "id": 24,
@@ -440,17 +286,9 @@
       "file": "routes/margina-gurahont.gpx",
       "youtube": "",
       "description": "In the wild",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat",
-        "Crisana"
-      ],
-      "county": [
-        "Arad",
-        "Timis"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat", "Crisana"],
+      "county": ["Arad", "Timis"]
     },
     {
       "id": 25,
@@ -460,16 +298,9 @@
       "file": "routes/moldovenesti-inoc.gpx",
       "youtube": "",
       "description": "Just ride",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Alba"]
     },
     {
       "id": 26,
@@ -479,15 +310,9 @@
       "file": "routes/petrosani-parangumic.gpx",
       "youtube": "",
       "description": "Narrow and steep road that leads to the Parangu Mic sky station with awesome landscape to Valea Jiului",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Hunedoara"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Hunedoara"]
     },
     {
       "id": 27,
@@ -497,17 +322,9 @@
       "file": "routes/petrosani-transalpina.gpx",
       "youtube": "",
       "description": "A road that leads to Transalpina trough a narrow canyon and breathtaking landscapes",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia",
-        "Transilvania"
-      ],
-      "county": [
-        "Hunedoara",
-        "Valcea"
-      ]
+      "country": ["Romania"],
+      "region": ["Oltenia", "Transilvania"],
+      "county": ["Hunedoara", "Valcea"]
     },
     {
       "id": 28,
@@ -517,15 +334,9 @@
       "file": "routes/poianacalineasa-poianahorea.gpx",
       "youtube": "",
       "description": "Offroad from Poiana Calineasa to Poiana Horea",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 29,
@@ -535,15 +346,9 @@
       "file": "routes/maru-muntelemic.gpx",
       "youtube": "",
       "description": "Offroad route that leads to the Muntele Mic Peak",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
     {
       "id": 30,
@@ -553,17 +358,9 @@
       "file": "routes/stei-albac.gpx",
       "youtube": "",
       "description": "The road that leads trough the Transursoaia",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana",
-        "Transilvania"
-      ],
-      "county": [
-        "Bihor",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana", "Transilvania"],
+      "county": ["Bihor", "Alba"]
     },
     {
       "id": 31,
@@ -573,15 +370,9 @@
       "file": "routes/strategicahard.gpx",
       "youtube": "",
       "description": "The famous strategica offroad but with the hard end",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia"
-      ],
-      "county": [
-        "Valcea"
-      ]
+      "country": ["Romania"],
+      "region": ["Oltenia"],
+      "county": ["Valcea"]
     },
     {
       "id": 32,
@@ -591,15 +382,9 @@
       "file": "routes/strategicaeasy.gpx",
       "youtube": "",
       "description": "The famous strategica offroad but with the easy end",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia"
-      ],
-      "county": [
-        "Valcea"
-      ]
+      "country": ["Romania"],
+      "region": ["Oltenia"],
+      "county": ["Valcea"]
     },
     {
       "id": 33,
@@ -609,15 +394,9 @@
       "file": "routes/teregova-plugova.gpx",
       "youtube": "",
       "description": "Just explore",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
     {
       "id": 34,
@@ -627,19 +406,9 @@
       "file": "routes/transalpina.gpx",
       "youtube": "",
       "description": "The famous Transalpina",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Oltenia"
-      ],
-      "county": [
-        "Alba",
-        "Sibiu",
-        "Valcea",
-        "Gorj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Oltenia"],
+      "county": ["Alba", "Sibiu", "Valcea", "Gorj"]
     },
     {
       "id": 35,
@@ -649,15 +418,9 @@
       "file": "routes/transsemenic.gpx",
       "youtube": "",
       "description": "Beautiful pass called Transemenic and you can get at the weather station and Semenic",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
     {
       "id": 36,
@@ -667,15 +430,9 @@
       "file": "routes/transluncani.gpx",
       "youtube": "",
       "description": "A short, narrow but steep road going nowhere but it's worth visiting",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Timis"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Timis"]
     },
     {
       "id": 37,
@@ -685,16 +442,9 @@
       "file": "routes/transursoaia.gpx",
       "youtube": "",
       "description": "The Transursoaia road through the Apuseni Mountains",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj", "Alba"]
     },
     {
       "id": 38,
@@ -704,17 +454,9 @@
       "file": "routes/varfurile-halmagiu-muntele-gaina-garda-de-sus-casa-de-piatra.gpx",
       "youtube": "",
       "description": "Offroad route with some hard sections, especially the one from Luncsoara to Garda de Sus. Get on top of the area at Muntele Gaina for great views over the Apuseni mountains.",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana",
-        "Transilvania"
-      ],
-      "county": [
-        "Arad",
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana", "Transilvania"],
+      "county": ["Arad", "Alba"]
     },
     {
       "id": 39,
@@ -724,15 +466,9 @@
       "file": "routes/zagon-intorsura.gpx",
       "youtube": "",
       "description": "A nice gravel road trough the woods",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Covasna"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Covasna"]
     },
     {
       "id": 40,
@@ -742,15 +478,9 @@
       "file": "routes/transapuseana-intregalde.gpx",
       "youtube": "",
       "description": "The famous Transapuseana road now has an paralel alternative to make it more fun",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Alba"]
     },
     {
       "id": 41,
@@ -760,15 +490,9 @@
       "file": "routes/lapus-roata.gpx",
       "youtube": "",
       "description": "An alternative to Cavnic with tarmac in very bad shape ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Maramures"
-      ],
-      "county": [
-        "Maramures"
-      ]
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
     },
     {
       "id": 42,
@@ -778,17 +502,9 @@
       "file": "routes/suciu-uriu.gpx",
       "youtube": "",
       "description": "Great route from Suciu to Dej",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Maramures",
-        "Transilvania"
-      ],
-      "county": [
-        "Maramures",
-        "Bistrita-Nasaud"
-      ]
+      "country": ["Romania"],
+      "region": ["Maramures", "Transilvania"],
+      "county": ["Maramures", "Bistrita-Nasaud"]
     },
     {
       "id": 43,
@@ -798,15 +514,9 @@
       "file": "routes/sarateni-mures.gpx",
       "youtube": "",
       "description": "Alternative to the main road from Praid to Targu Mures",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Mures"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Mures"]
     },
     {
       "id": 44,
@@ -816,16 +526,9 @@
       "file": "routes/reghin-ditrau.gpx",
       "youtube": "",
       "description": "Light offroad trough the woods from Reghin to Ditrau, alternative to Defileul Muresului",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Mures",
-        "Harghita"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Mures", "Harghita"]
     },
     {
       "id": 45,
@@ -835,16 +538,9 @@
       "file": "routes/pasul-palma.gpx",
       "youtube": "",
       "description": "Another pass that is worth trying",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Bucovina",
-        "Moldova"
-      ],
-      "county": [
-        "Suceava"
-      ]
+      "country": ["Romania"],
+      "region": ["Bucovina", "Moldova"],
+      "county": ["Suceava"]
     },
     {
       "id": 46,
@@ -854,15 +550,9 @@
       "file": "routes/pasul-bucin.gpx",
       "youtube": "",
       "description": "Another pass that is worth trying",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Harghita"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
     },
     {
       "id": 47,
@@ -872,16 +562,9 @@
       "file": "routes/buces-vulcan.gpx",
       "youtube": "",
       "description": "Another pass that is worth trying",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Alba",
-        "Hunedoara"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Alba", "Hunedoara"]
     },
     {
       "id": 48,
@@ -891,15 +574,9 @@
       "file": "routes/padureaneagra-brusturi.gpx",
       "youtube": "",
       "description": "Great detour from Pestis route",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana"
-      ],
-      "county": [
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     },
     {
       "id": 49,
@@ -909,17 +586,9 @@
       "file": "routes/ojdula-long.gpx",
       "youtube": "",
       "description": "A longer version of the Ojdula pass that is a must do",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Moldova"
-      ],
-      "county": [
-        "Covasna",
-        "Vrancea"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Covasna", "Vrancea"]
     },
     {
       "id": 50,
@@ -929,17 +598,9 @@
       "file": "routes/oituz.gpx",
       "youtube": "",
       "description": "A pass from Transilvania to Moldova",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Moldova"
-      ],
-      "county": [
-        "Covasna",
-        "Bacau"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Covasna", "Bacau"]
     },
     {
       "id": 51,
@@ -949,16 +610,9 @@
       "file": "routes/livezile-murareni.gpx",
       "youtube": "",
       "description": "Great county roads",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Bistrita-Nasaud",
-        "Mures"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Bistrita-Nasaud", "Mures"]
     },
     {
       "id": 52,
@@ -968,15 +622,9 @@
       "file": "routes/joseni-zetea.gpx",
       "youtube": "",
       "description": "From Joseni to Zetea on a nice road with lots of landscapes",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Harghita"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
     },
     {
       "id": 53,
@@ -986,15 +634,9 @@
       "file": "routes/ilva-sant.gpx",
       "youtube": "",
       "description": "Not a well known road but it's very beautiful",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Bistrita-Nasaud"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Bistrita-Nasaud"]
     },
     {
       "id": 54,
@@ -1004,35 +646,21 @@
       "file": "routes/hateg-hunedoara.gpx",
       "youtube": "",
       "description": "A very nice alternative to reach Hunedoara from Hateg with 2 km of light gravel suitable for road bike also",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Hunedoara"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Hunedoara"]
     },
     {
       "id": 55,
-      "title": "Galgau → Targu Lapus ",
+      "title": "Galgau → Targu Lapus",
       "date": "2026-03-28",
       "type": "onroad",
       "file": "routes/galgau-lapus.gpx",
       "youtube": "",
       "description": "Alternative to Targu Lapus instead of the Rohia road",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Maramures",
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj",
-        "Maramures"
-      ]
+      "country": ["Romania"],
+      "region": ["Maramures", "Transilvania"],
+      "county": ["Cluj", "Maramures"]
     },
     {
       "id": 56,
@@ -1042,15 +670,9 @@
       "file": "routes/geoagiu-criscior.gpx",
       "youtube": "",
       "description": "Fresh roads",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Hunedoara"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Hunedoara"]
     },
     {
       "id": 57,
@@ -1060,16 +682,9 @@
       "file": "routes/ciungetu-oltet.gpx",
       "youtube": "",
       "description": "A great route to test your offroad skills and reach higher mountains",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia"
-      ],
-      "county": [
-        "Valcea",
-        "Gorj"
-      ]
+      "country": ["Romania"],
+      "region": ["Oltenia"],
+      "county": ["Valcea", "Gorj"]
     },
     {
       "id": 58,
@@ -1079,38 +694,21 @@
       "file": "routes/sohodolului.gpx",
       "youtube": "",
       "description": "A great offroad route in a great condition",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Oltenia"
-      ],
-      "county": [
-        "Gorj",
-        "Hunedoara"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Oltenia"],
+      "county": ["Gorj", "Hunedoara"]
     },
     {
       "id": 59,
-      "title": "Carlibaba → Vatra Moldovitei ",
+      "title": "Carlibaba → Vatra Moldovitei",
       "date": "2026-03-28",
       "type": "offroad",
       "file": "routes/carlibaba-vatra.gpx",
       "youtube": "",
       "description": "Part of the ACT, this is a great gravel road",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Marmures",
-        "Bucovina",
-        "Moldova"
-      ],
-      "county": [
-        "Maramures",
-        "Suceava"
-      ]
+      "country": ["Romania"],
+      "region": ["Marmures", "Bucovina", "Moldova"],
+      "county": ["Maramures", "Suceava"]
     },
     {
       "id": 60,
@@ -1120,16 +718,9 @@
       "file": "routes/brosteni-darmoxa-vatradornei.gpx",
       "youtube": "",
       "description": "An alternative from Brosteni to Vatra Dornei",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Moldova",
-        "Bucovina"
-      ],
-      "county": [
-        "Suceava"
-      ]
+      "country": ["Romania"],
+      "region": ["Moldova", "Bucovina"],
+      "county": ["Suceava"]
     },
     {
       "id": 61,
@@ -1139,15 +730,9 @@
       "file": "routes/bradesti-salciua.gpx",
       "youtube": "",
       "description": "From Transapuseana to Valea Ariesului",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Alba"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Alba"]
     },
     {
       "id": 62,
@@ -1157,15 +742,9 @@
       "file": "routes/durau-bicaz.gpx",
       "youtube": "",
       "description": "Great road in the Ceahlau National Park",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Moldova"
-      ],
-      "county": [
-        "Neamt"
-      ]
+      "country": ["Romania"],
+      "region": ["Moldova"],
+      "county": ["Neamt"]
     },
     {
       "id": 63,
@@ -1175,15 +754,9 @@
       "file": "routes/tour-bezded.gpx",
       "youtube": "",
       "description": "Local route",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Salaj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Salaj"]
     },
     {
       "id": 64,
@@ -1193,15 +766,9 @@
       "file": "routes/barsana-suciudesus.gpx",
       "youtube": "",
       "description": "Not so well know roads but worth seeing",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Maramures"
-      ],
-      "county": [
-        "Maramures"
-      ]
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
     },
     {
       "id": 65,
@@ -1211,18 +778,9 @@
       "file": "routes/herculane-tgjiu.gpx",
       "youtube": "",
       "description": "Beautiful scenery",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat",
-        "Oltenia"
-      ],
-      "county": [
-        "Caras-Severin",
-        "Gorj",
-        "Mehedinti"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat", "Oltenia"],
+      "county": ["Caras-Severin", "Gorj", "Mehedinti"]
     },
     {
       "id": 66,
@@ -1232,17 +790,9 @@
       "file": "routes/alesd-nusfalau.gpx",
       "youtube": "",
       "description": "Great curves with great tarmac",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana",
-        "Transilvania"
-      ],
-      "county": [
-        "Bihor",
-        "Salaj"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana", "Transilvania"],
+      "county": ["Bihor", "Salaj"]
     },
     {
       "id": 67,
@@ -1252,17 +802,9 @@
       "file": "routes/cazaneledunarii.gpx",
       "youtube": "",
       "description": "The famous road along Danube",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat",
-        "Oltenia"
-      ],
-      "county": [
-        "Caras-Severin",
-        "Mehedinti"
-      ]
+      "country": ["Romania"],
+      "region": ["Banat", "Oltenia"],
+      "county": ["Caras-Severin", "Mehedinti"]
     },
     {
       "id": 68,
@@ -1272,15 +814,9 @@
       "file": "routes/cluj-napoca-pgl-verde-de-nadasu.gpx",
       "youtube": "https://youtu.be/UddCirO8QzA",
       "description": "Short ride on the European road then a nice ride over a communal road to the Nădașu village",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 69,
@@ -1290,19 +826,11 @@
       "file": "routes/campulluineag-cerna.gpx",
       "youtube": "",
       "description": "A offroad route in the national park Domogled Valea Cernei",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-        "Banat"
-      ],
-      "county": [
-        "Hunedoara",
-        "Caras-Severin"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania", "Banat"],
+      "county": ["Hunedoara", "Caras-Severin"]
     },
-	{
+    {
       "id": 70,
       "title": "Zarnesti → Moeciu de Jos",
       "date": "2026-03-29",
@@ -1310,356 +838,225 @@
       "file": "routes/zarnesti-moeciu.gpx",
       "youtube": "",
       "description": "Offroad with great scenery ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Brasov"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Brasov"]
     },
-	{
+    {
       "id": 71,
-      "title": " Valea Jiului ",
+      "title": "Valea Jiului",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/valea-jiului.gpx",
       "youtube": "",
-      "description": "A road that goes trough the old coal mines villages ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Hunedoara"
-      ]
+      "description": "A road that goes trough the old coal mines villages",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Hunedoara"]
     },
-	{
+    {
       "id": 72,
-      "title": " Transfagarasan ",
+      "title": "Transfagarasan",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/transfagarasan.gpx",
       "youtube": "",
-      "description": "The classic Transfagarasan ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-		"Muntenia"
-      ],
-      "county": [
-        "Sibiu",
-		"Arges"
-      ]
+      "description": "The classic Transfagarasan",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Muntenia"],
+      "county": ["Sibiu", "Arges"]
     },
-	{
+    {
       "id": 73,
-      "title": " Toplita - Lacul Bicaz ",
+      "title": "Toplita - Lacul Bicaz",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/toplita-lacul-bicaz.gpx",
       "youtube": "",
-      "description": "Also a beautiful route that goes from Transilvania to Moldova ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-		"Moldova"
-      ],
-      "county": [
-        "Harghita",
-		"Neamt"
-      ]
+      "description": "Also a beautiful route that goes from Transilvania to Moldova",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Neamt"]
     },
-	{
+    {
       "id": 74,
-      "title": " Resita → Anina ",
+      "title": "Resita → Anina",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/resita-anina.gpx",
       "youtube": "",
-      "description": "Great road with a lot of curves ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "description": "Great road with a lot of curves",
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
-	{
+    {
       "id": 75,
-      "title": " Rasnov → Valea Mare (Rucar - Bran)",
+      "title": "Rasnov → Valea Mare (Rucar - Bran)",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/rasnnov-valea-mare.gpx",
       "youtube": "",
-      "description": "A well known pass between Transilvania and Muntenia ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-		"Muntenia"
-      ],
-      "county": [
-        "Brasov",
-		"Arges"
-      ]
+      "description": "A well known pass between Transilvania and Muntenia",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Muntenia"],
+      "county": ["Brasov", "Arges"]
     },
-	{
+    {
       "id": 76,
-      "title": " Rasnov → Predeal ",
+      "title": "Rasnov → Predeal",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/rasnov-predeal.gpx",
       "youtube": "",
-      "description": "Alternative route to Predeal ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Brasov"
-      ]
+      "description": "Alternative route to Predeal",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Brasov"]
     },
-	{
+    {
       "id": 77,
-      "title": " Plugova → Oravita ",
+      "title": "Plugova → Oravita",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/plugova-oravita.gpx",
       "youtube": "",
-      "description": "Curves and great roads in Banat ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "description": "Curves and great roads in Banat",
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
-	{
+    {
       "id": 78,
-      "title": " Pasul Casin ",
+      "title": "Pasul Casin",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/pasul-casin.gpx",
       "youtube": "",
-      "description": "Pass from Miercurea Ciuc to Targu Secuiesc ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Harghita",
-		"Covasna"
-      ]
+      "description": "Pass from Miercurea Ciuc to Targu Secuiesc",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita", "Covasna"]
     },
-	{
+    {
       "id": 79,
-      "title": " Magura → Hales",
+      "title": "Magura → Hales",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/magura-hales.gpx",
       "youtube": "",
-      "description": "An option to make the route longer ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Muntenia"
-      ],
-      "county": [
-        "Buzau"
-      ]
+      "description": "An option to make the route longer",
+      "country": ["Romania"],
+      "region": ["Muntenia"],
+      "county": ["Buzau"]
     },
-	{
+    {
       "id": 80,
-      "title": " Defileul Jiului ",
+      "title": "Defileul Jiului",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/defileul-jiului.gpx",
       "youtube": "",
-      "description": "A pass from Oltenia to Transilvania ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia",
-		"Transilvania"
-      ],
-      "county": [
-        "Gorj",
-		"Hunedoara"
-      ]
+      "description": "A pass from Oltenia to Transilvania",
+      "country": ["Romania"],
+      "region": ["Oltenia", "Transilvania"],
+      "county": ["Gorj", "Hunedoara"]
     },
-	{
+    {
       "id": 81,
-      "title": " Cheile Bicazului ",
+      "title": "Cheile Bicazului",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/cheile-bicazului.gpx",
       "youtube": "",
-      "description": "A great road that has stunning views ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-		"Moldova"
-      ],
-      "county": [
-        "Harghita",
-		"Neamt"
-      ]
+      "description": "A great road that has stunning views",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Moldova"],
+      "county": ["Harghita", "Neamt"]
     },
-	{
+    {
       "id": 82,
-      "title": " Brezoi → Transalpina ",
+      "title": "Brezoi → Transalpina",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/brezoi-transalpina.gpx",
       "youtube": "",
-      "description": "Connection road from Valea Oltului to Transalpina ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Oltenia"
-      ],
-      "county": [
-        "Valcea"
-      ]
+      "description": "Connection road from Valea Oltului to Transalpina",
+      "country": ["Romania"],
+      "region": ["Oltenia"],
+      "county": ["Valcea"]
     },
-	{
+    {
       "id": 83,
-      "title": " Brasov → Ploiesti via Cheia",
+      "title": "Brasov → Ploiesti via Cheia",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/brasov-cheia-ploiesti.gpx",
       "youtube": "",
-      "description": "Alternative to Valea Prahovei ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Muntenia",
-		"Transilvania"
-      ],
-      "county": [
-        "Brasov",
-		"Prahova"
-      ]
+      "description": "Alternative to Valea Prahovei",
+      "country": ["Romania"],
+      "region": ["Muntenia", "Transilvania"],
+      "county": ["Brasov", "Prahova"]
     },
-	{
+    {
       "id": 84,
-      "title": " Brasov → Buzau via Siriu",
+      "title": "Brasov → Buzau via Siriu",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/brasov-siriu-buzau.gpx",
       "youtube": "",
-      "description": "Alternative to Cheia ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Muntenia",
-		"Transilvania"
-      ],
-      "county": [
-        "Brasov",
-		"Prahova",
-		"Covasna"
-      ]
+      "description": "Alternative to Cheia",
+      "country": ["Romania"],
+      "region": ["Muntenia", "Transilvania"],
+      "county": ["Brasov", "Prahova", "Covasna"]
     },
-	{
+    {
       "id": 85,
-      "title": " Bixad → Tg Secuiesc via Lacul Sf Ana",
+      "title": "Bixad → Tg Secuiesc via Lacul Sf Ana",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/bixad-ana-secuiesc.gpx",
       "youtube": "",
-      "description": "A route that goes to the onlz volcano lake in Romania ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Covasna",
-		"Harghita"
-      ]
+      "description": "A route that goes to the onlz volcano lake in Romania",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Covasna", "Harghita"]
     },
-	{
+    {
       "id": 86,
-      "title": " Bicaz → Hagota ",
+      "title": "Bicaz → Hagota",
       "date": "2026-03-29",
       "type": "offroad",
       "file": "routes/bicaz-hagota.gpx",
       "youtube": "",
-      "description": "Test your offroad skills ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Harghita"
-      ]
+      "description": "Test your offroad skills",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
     },
-	{
+    {
       "id": 87,
-      "title": " Anina → Marila",
+      "title": "Anina → Marila",
       "date": "2026-03-29",
       "type": "offroad",
       "file": "routes/anina-marila.gpx",
       "youtube": "",
-      "description": "Some gravel ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Banat"
-      ],
-      "county": [
-        "Caras-Severin"
-      ]
+      "description": "Some gravel",
+      "country": ["Romania"],
+      "region": ["Banat"],
+      "county": ["Caras-Severin"]
     },
     {
       "id": 88,
-      "title": " Sudrigiu → Padis ",
+      "title": "Sudrigiu → Padis",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/sudrigiu-padis.gpx",
       "youtube": "",
       "description": "Mountain road in Bihor with dead end for road bikes",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Crisana"
-      ],
-      "county": [
-        "Bihor"
-      ]
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     },
     {
       "id": 89,
@@ -1668,74 +1065,48 @@
       "type": "offroad",
       "file": "routes/doda-padis.gpx",
       "youtube": "",
-      "description": "An offroad route that requiers some skill ",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania",
-		"Crisana"
-      ],
-      "county": [
-        "Cluj",
-		"Bihor"
-      ]
+      "description": "An offroad route that requiers some skill",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Crisana"],
+      "county": ["Cluj", "Bihor"]
     },
     {
       "id": 90,
-      "title": "Giurcuta de Sus → Poiana Horea ",
+      "title": "Giurcuta de Sus → Poiana Horea",
       "date": "2026-03-29",
       "type": "offroad",
       "file": "routes/giurcuta-horea.gpx",
       "youtube": "",
       "description": "Offroad shortcut from Belis to Poiana Horea",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 91,
-      "title": " Bologa → Doda Pilii ",
+      "title": "Bologa → Doda Pilii",
       "date": "2026-03-29",
       "type": "onroad",
       "file": "routes/bologa-doda.gpx",
       "youtube": "",
       "description": "The route to Doda Pilii",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     },
     {
       "id": 92,
-      "title": " Sadu → Oasa (Transcindrel) ",
+      "title": "Sadu → Oasa (Transcindrel)",
       "date": "2026-03-29",
       "type": "offroad",
       "file": "routes/transcindrel.gpx",
       "youtube": "",
       "description": "Transcindrel route",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Sibiu"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Sibiu"]
     },
-        {
+    {
       "id": 93,
       "title": "Traversare Muntele Rece",
       "date": "2026-03-27",
@@ -1743,15 +1114,105 @@
       "file": "routes/traversare-muntele-rece.gpx",
       "youtube": "",
       "description": "New road going over the Muntele Rece in the Apuseni Mountains, going from Somesul Rece to Finisel. New road built in 2025. Next to Muntele Rece Monastery.",
-      "country": [
-        "Romania"
-      ],
-      "region": [
-        "Transilvania"
-      ],
-      "county": [
-        "Cluj"
-      ]
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
+    },
+    {
+      "id": 94,
+      "title": "Malnas Bai → Batanii Mari",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/malnas-batanii.gpx",
+      "youtube": "",
+      "description": "Offroad route from Malnas to Batanii",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Covasna"]
+    },
+    {
+      "id": 95,
+      "title": "Mara → Firiza",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/mara-firiza.gpx",
+      "youtube": "",
+      "description": "Test your offroad skills",
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
+    },
+    {
+      "id": 96,
+      "title": "Paltinis",
+      "date": "2026-04-02",
+      "type": "onroad",
+      "file": "routes/paltinis.gpx",
+      "youtube": "",
+      "description": "Classic but beautiful road",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Sibiu"]
+    },
+    {
+      "id": 97,
+      "title": "Sat Sugag → Mara",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/sugag-mara.gpx",
+      "youtube": "",
+      "description": "Once agin you can test your power on those offroad route",
+      "country": ["Romania"],
+      "region": ["Maramures"],
+      "county": ["Maramures"]
+    },
+    {
+      "id": 98,
+      "title": "Valea Crisului → Aita Mare",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/aita-valeacrisului.gpx",
+      "youtube": "",
+      "description": "Look out for the bears",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Covasna"]
+    },
+    {
+      "id": 99,
+      "title": "Birtin → Tomnatic",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/birtin-tomnatic.gpx",
+      "youtube": "",
+      "description": "Some offroad in Bihor",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
+    },
+    {
+      "id": 100,
+      "title": "Suncuius → Tomnatic",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/suncuius-tomnatic.gpx",
+      "youtube": "",
+      "description": "Into the woods",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
+    },
+    {
+      "id": 101,
+      "title": "Varciorog → Calatea",
+      "date": "2026-04-02",
+      "type": "offroad",
+      "file": "routes/varciorog-calatea.gpx",
+      "youtube": "",
+      "description": "Some gravel",
+      "country": ["Romania"],
+      "region": ["Crisana"],
+      "county": ["Bihor"]
     }
   ]
 }
