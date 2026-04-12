@@ -1213,6 +1213,18 @@
       "country": ["Romania"],
       "region": ["Crisana"],
       "county": ["Bihor"]
+    },
+    {
+      "id": 102,
+      "title": "Drumul Generalului",
+      "date": "2026-04-11",
+      "type": "onroad",
+      "file": "routes/drumul-generalului.gpx",
+      "youtube": "https://youtu.be/Qvj70mdhKuQ",
+      "description": "A short, steep road on the edge of Cluj-Napoca, with a few switchbacks",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Cluj"]
     }
   ]
 }
