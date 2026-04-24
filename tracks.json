@@ -1225,6 +1225,18 @@
       "country": ["Romania"],
       "region": ["Transilvania"],
       "county": ["Cluj"]
+    },
+    {
+      "id": 103,
+      "title": "Pasul Tihuta",
+      "date": "2026-04-19",
+      "type": "onroad",
+      "file": "routes/pasul-tihuta.gpx",
+      "youtube": "https://youtu.be/bMXcoxYQuRM",
+      "description": "Tihuta Pass, linking the historical regions of Bukowina and Transylvania",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Bucovina"],
+      "county": ["Suceava", "Bistrita-Nasaud"]
     }
   ]
 }
