@@ -1237,6 +1237,18 @@
       "country": ["Romania"],
       "region": ["Transilvania", "Bucovina"],
       "county": ["Suceava", "Bistrita-Nasaud"]
+    },
+    {
+      "id": 104,
+      "title": "Cluj-Napoca → Tulghes Pass → Vatra Dornei",
+      "date": "2026-04-18",
+      "type": "onroad",
+      "file": "routes/cluj-reghin-toplita-borsec-bicaz-vatra-dornei.gpx",
+      "youtube": "https://www.youtube.com/watch?v=Z8FV9TgwlFI",
+      "description": "Long way route from Cluj-Napoca to Vatra Dornei, passing Reghin, Toplita, Tulghes Pass, Mures Gorge, Borsec, Bicaz Lake and Bistrita Valley",
+      "country": ["Romania"],
+      "region": ["Transilvania", "Bucovina", "Moldova"],
+      "county": ["Suceava", "Mures", "Harghita", "Cluj", "Neamt", "Bistrita-Nasaud"]
     }
   ]
 }
