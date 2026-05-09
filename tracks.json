@@ -1249,6 +1249,42 @@
       "country": ["Romania"],
       "region": ["Transilvania", "Bucovina", "Moldova"],
       "county": ["Suceava", "Mures", "Harghita", "Cluj", "Neamt", "Bistrita-Nasaud"]
+    },
+	{
+      "id": 105,
+      "title": "Homorod → Aldea",
+      "date": "2026-05-09",
+      "type": "offroad",
+      "file": "routes/homorod-aldea.gpx",
+      "youtube": "",
+      "description": "A short light offroad route",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
+    },
+	{
+      "id": 106,
+      "title": "Homorod → Chirui → Odorhei",
+      "date": "2026-05-09",
+      "type": "onroad",
+      "file": "routes/homorod-chirui-odorhei.gpx",
+      "youtube": "",
+      "description": "A great route for scenery",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita"]
+    },
+	{
+      "id": 107,
+      "title": "Tirgu Mures → Odorheiu Secuiesc",
+      "date": "2026-05-09",
+      "type": "onroad",
+      "file": "routes/mures-odorhei.gpx",
+      "youtube": "",
+      "description": "A great route for scenery",
+      "country": ["Romania"],
+      "region": ["Transilvania"],
+      "county": ["Harghita","Mures"]
     }
   ]
 }
